@@ -1,0 +1,32 @@
+Programa k-mer13.py
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m38,721s
+user	1m38,575s
+sys	0m0,004s
+Programa k-mer14.py
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m46,216s
+user	6m45,615s
+sys	0m0,004s
+Programa k-mer13.cpp
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,712s
+user	0m0,711s
+sys	0m0,000s
+Programa k-mer14.cpp
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,912s
+user	0m2,909s
+sys	0m0,000s
