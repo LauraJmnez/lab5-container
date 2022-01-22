@@ -30,3 +30,37 @@ Finish!
 real	0m2,912s
 user	0m2,909s
 sys	0m0,000s
+
+Programa k-mer13.py con singularity
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m41,058s
+user	1m39,887s
+sys	0m0,211s
+Programa k-mer14.py con singularity
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m19,523s
+user	6m18,709s
+sys	0m0,200s
+Programa k-mer13.cpp con singularity
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,969s
+user	0m0,791s
+sys	0m0,124s
+Programa k-mer14.cpp con singularity
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,986s
+user	0m2,836s
+sys	0m0,116s
+
